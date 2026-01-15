@@ -2,7 +2,7 @@
 
 This repository contains the seminar paper and Python implementation related to my MSc Physics final project:  
 
-Davis, Shinta & Vinod, G.**Study of dynamics of Laser system using Lorenz Model** Seminar Proceedings of the National Seminar **Recent Trends in Physics and Research** Department of Physics, St. Xavier’s College for Women,  Aluva, Kerala, India – 686560 December 2015, pp. 39–46.
+*Davis, Shinta & Vinod, G.**Study of dynamics of Laser system using Lorenz Model** Seminar Proceedings of the National Seminar **Recent Trends in Physics and Research** Department of Physics, St. Xavier’s College for Women,  Aluva, Kerala, India – 686560 December 2015, pp. 39–46.*
 
 This work was submitted as part of the *MSc Physics Final Project* at *Mahatma Gandhi University Kottayam, Kerala, India.*
 
