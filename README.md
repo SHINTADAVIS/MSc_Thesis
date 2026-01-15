@@ -8,7 +8,7 @@ This work was submitted as part of the *MSc Physics Final Project* at *Mahatma G
 
 ## Contents
 
-- `paper.pdf`  
+- `Study of Dynamics of Laser system using Lorenz Model .pdf`  
   The published seminar paper.
 
 - `python/`  
